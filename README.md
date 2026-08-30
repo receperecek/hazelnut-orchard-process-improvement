@@ -677,3 +677,21 @@ The agricultural change is therefore also an operational redesign.
 
 > **The real improvement is not simply changing the hazelnut cultivar. It is changing the way the orchard can be operated in the future.**
 
+---
+
+## Project Structure
+
+```text
+hazelnut-orchard-process-improvement/
+│
+├── README.md
+└── images/
+    ├── 01-dense-untreated-cluster-reference.jpg
+    ├── 02-cross-cluster-branch-interference.jpg
+    ├── 03-yagli-palaz-canopy-density.jpg
+    ├── 04-young-gog-hazelnut-cluster.jpg
+    ├── 05-mature-stem-selected-for-removal.jpg
+    ├── 06-selective-thinning-cut-and-retained-stems.jpg
+    ├── 07-cluster-after-selective-thinning.jpg
+    └── 08-removed-branches-after-thinning.jpg
+
