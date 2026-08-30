@@ -168,5 +168,68 @@ The current process creates three interconnected dependencies:
 **Dense canopy → Reduced open space and sunlight → Constraint on new cultivar development**
 
 The result is a harvesting system that works under the current family structure but becomes increasingly difficult to sustain if fewer physically capable people are available in the future.
+---
+
+## TO-BE Process & Target State
+
+The target state is an orchard dominated by **Göğ Fındık**, where harvesting can be performed with significantly lower physical effort and much less coordination between neighboring branches.
+
+Unlike Yağlı Palaz, Göğ Fındık grows with shorter, thinner, and more upright stems. Its branches occupy less lateral space and are therefore far less likely to interfere with neighboring clusters.
+
+![Young Göğ Fındık cluster](images/04-young-gog-hazelnut-cluster.jpg)
+
+*Young Göğ Fındık clusters were planted in the open spaces between the original Yağlı Palaz clusters as part of the long-term replacement strategy.*
+
+### Target Harvesting Flow
+
+1. Select a hazelnut cluster.
+2. Identify the branch to be harvested.
+3. Access the branch directly or bend it with minimal force if necessary.
+4. Harvest the hazelnuts without first repositioning multiple surrounding branches.
+5. Move to the next branch independently.
+6. Repeat the process across the cluster.
+
+Because the branch structure is expected to be easier to manage, the harvesting process can potentially be simplified further by collecting directly into a container instead of first dropping the hazelnuts onto the ground.
+
+### AS-IS vs TO-BE
+
+| Process Dimension | AS-IS: Yağlı Palaz | TO-BE: Göğ Fındık |
+|---|---|---|
+| **Branch structure** | Thick, long, laterally expanding | Thin, shorter, more upright |
+| **Cross-cluster interference** | Frequent | Expected to be minimal |
+| **Initial bending effort** | High | Low |
+| **Typical labor requirement** | Often two people for one branch | One person can work independently |
+| **Coordination requirement** | High | Low |
+| **Rework caused by interference** | Recurring | Expected to be limited |
+| **Independent harvesting** | Difficult | Feasible |
+| **Operational dependency** | Multiple physically capable people | Significantly reduced |
+
+### Target Operating Principle
+
+The objective is **not to reduce family participation**.
+
+The objective is to eliminate the condition where multiple people must be present for the harvest to remain operational.
+
+> **Three people should make the work faster and easier — but one person should still be able to complete the harvest independently if necessary.**
+
+This creates a more resilient operating model.
+
+If all family members are available, the harvest becomes easier.
+
+If only two people are available, the process remains manageable.
+
+If only one person is available, the process may take longer, but it should still remain operational.
+
+### Target Outcome
+
+The final state is a fully transitioned Göğ Fındık orchard where:
+
+- branch interference is no longer a major harvesting constraint,
+- high-force branch bending is no longer a normal requirement,
+- individual harvesting tasks can be performed independently,
+- dependence on simultaneous family labor is reduced,
+- and the orchard remains manageable even under the least favorable labor-availability scenario.
+
+This is the core definition of **operational resilience** for the project.
 
 No numerical performance improvements are claimed unless they were directly observed or measured.
