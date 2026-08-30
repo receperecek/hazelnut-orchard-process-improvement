@@ -566,8 +566,114 @@ Metrics such as:
 - percentage increase in sunlight exposure,
 - labor-hours saved,
 - or yield differences
-
+- 
 were not formally measured during this stage of the project and are therefore not presented as quantified results.
 
 This distinction keeps the case study focused on documented process analysis rather than unsupported numerical claims.
+
+---
+
+## Findings & Business Analysis Takeaways
+
+This case demonstrates that process improvement does not always require software, automation, or advanced analytics.
+
+In this project, the main improvement opportunity came from understanding how physical structure, labor availability, and long-term family needs interact within a real operating process.
+
+### Finding 1 — The Main Bottleneck Was Not Picking
+
+The act of removing hazelnuts from the branch was not the primary source of inefficiency.
+
+The main bottleneck was **accessing and positioning the branches before picking could begin**.
+
+This distinction matters because improving the wrong step would not meaningfully improve the overall process.
+
+### Finding 2 — Branch Density Created Process Interdependency
+
+Individual harvesting tasks were not truly independent.
+
+A single branch could require neighboring branches to be repositioned before work could continue.
+
+This created:
+
+- coordination overhead,
+- repeated work,
+- sequencing complexity,
+- and dependence on multiple people.
+
+Reducing this interdependency is one of the most important operational benefits of the target system.
+
+### Finding 3 — Resource Dependency Was a Long-Term Risk
+
+The current Yağlı Palaz system works when several physically capable family members are available.
+
+The future risk is not that the family will stop caring about the orchard.
+
+The risk is that professional schedules may reduce simultaneous availability.
+
+The improvement therefore focuses on **reducing critical resource dependency** rather than trying to guarantee resource availability.
+
+### Finding 4 — The Best Solution Depends on Stakeholder Needs
+
+Yağlı Palaz is not inherently a bad cultivar.
+
+For growers with sufficient labor, different harvesting preferences, or a stronger preference for its flavor, keeping the existing cultivar may be entirely reasonable.
+
+The change makes sense specifically because the family's priorities are:
+
+- easier harvesting,
+- lower physical strain,
+- reduced coordination,
+- and long-term independence.
+
+This reinforces a core Business Analysis principle:
+
+> **There is rarely a universally best solution. The best solution is the one that fits the stakeholder context and operating constraints.**
+
+### Finding 5 — Phased Transition Reduced Transformation Risk
+
+A full replacement at the beginning would have created unnecessary exposure to biological and production risk.
+
+The gradual transition allowed the family to:
+
+- keep current production,
+- observe whether the new cultivar established successfully,
+- increase removal only as the new plants developed,
+- and postpone irreversible decisions until more information became available.
+
+This is a practical example of **controlled migration under uncertainty**.
+
+### Finding 6 — Operational Resilience Was More Important Than Maximum Efficiency
+
+The objective was not to design the fastest possible harvest.
+
+The more important goal was to create a system that remains functional under unfavorable labor conditions.
+
+A process that can continue with one available person is more resilient than one that performs well only when several specific people are present.
+
+### Finding 7 — Improvement Can Be Qualitative Before It Becomes Quantitative
+
+The current project identifies clear operational patterns through field experience and observation.
+
+The next maturity level would be to measure them.
+
+Possible future metrics could include:
+
+- average time required to harvest a cluster,
+- number of branch-interference events per cluster,
+- number of people required for branch handling,
+- approximate labor-hours per kilogram harvested,
+- canopy openness or sunlight exposure,
+- and year-over-year development of Göğ Fındık clusters.
+
+These metrics are not required to validate the current process analysis, but they could transform the case into a future quantitative field analytics project.
+
+---
+
+## Final Business Insight
+
+The orchard transformation is ultimately a shift from a process that depends on **strength, coordination, and simultaneous labor availability** toward one designed around **accessibility, independence, and resilience**.
+
+The agricultural change is therefore also an operational redesign.
+
+> **The real improvement is not simply changing the hazelnut cultivar. It is changing the way the orchard can be operated in the future.**
 
