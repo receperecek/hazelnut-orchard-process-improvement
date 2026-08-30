@@ -318,4 +318,105 @@ For this reason, the transition is best described as:
 
 **Time-informed, but maturity-driven.**
 
+---
+
+## Stakeholders & Business Requirements
+
+The orchard transformation is primarily a family decision supported by long-term local agricultural experience.
+
+### Stakeholder Roles
+
+| Stakeholder | Role | Main Interest |
+|---|---|---|
+| **Primary decision-maker** | Process Owner & Domain Expert | Long-term sustainability of the orchard and correct cultivar management |
+| **Family harvest participants** | Operational Stakeholders | Lower physical workload, less coordination complexity, and easier harvesting |
+| **Experienced local growers and family network** | Informal Knowledge Sources | Sharing practical knowledge about cultivar behavior, maintenance, and local conditions |
+
+The primary decision-maker has the strongest domain knowledge because of long-term experience with the orchard and the local growing environment. Other family members participate directly in harvesting and therefore experience the operational difficulties of the current process.
+
+The project translates these practical needs into explicit business requirements.
+
+### Business Requirements
+
+#### BR-01 — Reduce Physical Workload
+
+The future harvesting process should require substantially less force to access and manipulate hazelnut branches.
+
+#### BR-02 — Reduce Coordination Complexity
+
+Individual branches should be harvestable without repeatedly repositioning branches from neighboring clusters.
+
+#### BR-03 — Reduce Multi-Person Labor Dependency
+
+The harvesting process should not depend on multiple physically capable family members being available at the same time.
+
+#### BR-04 — Preserve Operational Continuity
+
+The orchard should remain harvestable even when family labor availability is limited.
+
+#### BR-05 — Support Göğ Fındık Development
+
+The developing Göğ Fındık clusters should receive sufficient sunlight and physical space during the transition period.
+
+#### BR-06 — Maintain Transitional Production
+
+Existing Yağlı Palaz production should not be eliminated before the new cultivar reaches sufficient maturity.
+
+#### BR-07 — Preserve the Orchard as a Sustainable Family Activity
+
+The transformation should allow the orchard to remain part of the family's life without creating an excessive physical or scheduling burden.
+
+---
+
+## Success Criteria
+
+The success of this project is not defined primarily by maximizing yield, revenue, or harvesting speed.
+
+Success means creating a harvesting system that remains practical under different levels of labor availability.
+
+### SC-01 — Minimal Branch Interference
+
+A branch should be accessible without requiring extensive planning about which neighboring branches must first be moved.
+
+### SC-02 — Lower Physical Risk and Effort
+
+High-force bending of mature branches should no longer be a normal part of the harvesting process.
+
+### SC-03 — Independent Harvesting Capability
+
+A single person should be capable of progressing through the orchard independently without requiring another person to manipulate surrounding branches.
+
+### SC-04 — Operational Continuity Under the Worst Labor-Availability Scenario
+
+Even if only one person is available, the annual harvest should remain achievable at a manageable pace.
+
+This represents the project's strongest operational success criterion.
+
+> **The goal is not to make the family work less together. The goal is to ensure that the orchard does not depend on everyone being available at the same time.**
+
+### SC-05 — Complete Cultivar Transition
+
+The project will reach its final state when the Göğ Fındık clusters are sufficiently mature to replace the remaining Yağlı Palaz structure entirely.
+
+Completion is therefore based on **plant maturity and operational readiness**, not on reaching a fixed calendar date.
+
+---
+
+## Accepted Trade-Off
+
+The transformation also includes a conscious quality-versus-operability trade-off.
+
+Yağlı Palaz is preferred within the family for its richer and oilier flavor. Göğ Fındık is still a desirable hazelnut, but the existing cultivar has a taste advantage.
+
+However, only a relatively small portion of the annual harvest is retained for family consumption and sharing, while the remainder is sold.
+
+For this project, the family therefore accepts a reduction in the preferred taste characteristic in exchange for:
+
+- substantially easier harvesting,
+- lower physical workload,
+- lower coordination requirements,
+- greater independence,
+- and stronger long-term operational resilience.
+
+This is an intentional trade-off rather than an unintended consequence of the transformation.
 
