@@ -32,12 +32,13 @@ The analysis is based on:
 
 - direct participation in the harvesting process,
 - long-term family experience with the orchard,
-- field observations
--  domain knowledge provided by the primary decision-maker,
+- field observations,
+- domain knowledge provided by the primary decision-maker,
 - and photographic evidence collected during the current transition process.
 
 No numerical performance improvements are claimed unless they were directly observed or measured.
-  ---
+
+---
 
 ## Background & Change Drivers
 
@@ -93,9 +94,8 @@ For this orchard, **long-term operability and harvesting accessibility were prio
 | **Family labor dependency** | Avoid making the harvest dependent on several family members being available simultaneously |
 | **Operational resilience** | Keep the orchard manageable even in a scenario where only one person is available |
 | **Long-term continuity** | Preserve the orchard as a sustainable and enjoyable family activity for future years |
-- domain knowledge provided by the primary decision-maker,
-- and photographic evidence collected during the current transition process.
-  ---
+
+  
 
 ## AS-IS Process Analysis
 
