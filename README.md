@@ -420,3 +420,93 @@ For this project, the family therefore accepts a reduction in the preferred tast
 
 This is an intentional trade-off rather than an unintended consequence of the transformation.
 
+---
+
+## Risks, Constraints & Mitigation
+
+The transition is designed to reduce long-term operational difficulty, but it also introduces its own risks and constraints.
+
+The strategy therefore avoids treating the transformation as a fixed schedule and instead relies on gradual observation and adjustment.
+
+### Risk Analysis
+
+| Risk | Potential Impact | Mitigation Approach |
+|---|---|---|
+| **New cultivar establishment failure** | Newly planted Göğ Fındık may fail to adapt because of disease, weather, or soil-related conditions | Maintain the existing Yağlı Palaz production layer during the early transition years and monitor plant development before making irreversible removals |
+| **Removing Yağlı Palaz too quickly** | Current production may decline before Göğ Fındık becomes sufficiently productive | Use selective thinning rather than full removal |
+| **Removing Yağlı Palaz too slowly** | New Göğ Fındık may receive insufficient sunlight and physical space, delaying the transition | Increase thinning intensity as the new cultivar enters stronger growth stages |
+| **Weather and disease exposure** | Plant development can be slowed or damaged by external agricultural conditions | Continue regular maintenance, seasonal care, and local monitoring |
+| **Incorrect timing assumptions** | A fixed ten-year schedule may not match actual biological development | Use plant maturity rather than calendar timing as the final transition trigger |
+| **Strategic reversal** | Returning to the previous cultivar after significant transition progress would require years of new growth and additional effort | Treat cultivar replacement as a long-term commitment and avoid premature full conversion decisions |
+
+### Key Transition Risk
+
+The most important management challenge is balancing the speed of the transition.
+
+Removing too much of the existing orchard too early creates one type of risk:
+
+**Too fast → production capacity is reduced before the new system is ready.**
+
+Moving too slowly creates the opposite problem:
+
+**Too slow → the new system remains constrained by the old one.**
+
+The transition strategy therefore aims to remain between these two extremes.
+
+> **The objective is to reduce legacy dependency without removing productive capacity faster than the replacement system can realistically absorb.**
+
+### Agricultural Constraints
+
+Several factors cannot be fully controlled by the family.
+
+#### Biological Growth Time
+
+Göğ Fındık requires several years to develop. The transformation cannot be accelerated beyond the natural growth cycle of the plants.
+
+#### Weather and Disease
+
+The Black Sea growing environment includes normal agricultural risks such as disease, excessive weather conditions, and seasonal variability.
+
+Göğ Fındık is widely grown in the local area, which reduces cultivar uncertainty, but environmental risk can never be eliminated completely.
+
+#### Existing Orchard Layout
+
+The new Göğ Fındık clusters were planted between the existing Yağlı Palaz clusters. The transition must therefore be managed within the physical constraints of the current orchard layout.
+
+#### Production Continuity
+
+The new cultivar cannot immediately replace the productive contribution of the existing orchard. This requires a temporary period where both cultivars remain operational at the same time.
+
+#### Family Availability
+
+Future participation by all family members cannot be guaranteed because of professional and personal schedules.
+
+The solution is therefore not to guarantee labor availability.
+
+The solution is to reduce the orchard's dependence on that availability.
+
+### Maintenance Continuity
+
+General orchard maintenance is less dependent on specific family members than harvesting.
+
+Seasonal activities such as vegetation clearing and fertilization can be carried out directly by the primary decision-maker or delegated to trusted local workers when necessary.
+
+This reinforces an important finding from the process analysis:
+
+> **The primary operational vulnerability is concentrated in the harvesting process rather than in general orchard maintenance.**
+
+### Risk Position of the Current Project
+
+The orchard is currently around the middle of its expected transition period.
+
+Early establishment risk has decreased because the Göğ Fındık plants have already survived and developed for several years.
+
+However, the transformation is not yet complete.
+
+The current stage therefore focuses on:
+
+- protecting the development of the new cultivar,
+- maintaining sufficient transitional production,
+- gradually reducing difficult Yağlı Palaz stems,
+- and avoiding irreversible decisions before the new system is ready.
+
