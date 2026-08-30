@@ -510,3 +510,64 @@ The current stage therefore focuses on:
 - gradually reducing difficult Yağlı Palaz stems,
 - and avoiding irreversible decisions before the new system is ready.
 
+---
+
+## Field Implementation & Visual Evidence
+
+The transition strategy is already being applied in the orchard.
+
+During the current harvesting season, existing Yağlı Palaz clusters were evaluated individually. Mature stems were selectively removed according to the previously defined decision criteria, with particular attention to:
+
+- the amount of shade created over developing Göğ Fındık clusters,
+- stem thickness and harvesting difficulty,
+- and interference with surrounding branches.
+
+The objective was not to clear the existing orchard completely.
+
+Instead, each intervention aimed to reduce the most restrictive parts of the old structure while preserving enough younger and medium-aged Yağlı Palaz stems to maintain production during the remaining transition period.
+
+### Field Workflow
+
+The implementation generally followed this sequence:
+
+`Evaluate cluster → identify restrictive mature stems → harvest/cut selected stems → retain younger productive stems → collect removed branches → reassess remaining space`
+
+Selected mature stems were cut during the harvest period. Hazelnuts carried by those stems were still collected, meaning that removal did not automatically eliminate the current season's crop from those branches.
+
+At the same time, the remaining stems continued to support transitional production.
+
+### Physical Result of the Intervention
+
+![Removed branches after selective thinning](images/08-removed-branches-after-thinning.jpg)
+
+*Branches collected after selective removal of mature Yağlı Palaz stems during the current transition process.*
+
+The accumulated branches illustrate that the intervention involved a meaningful reduction of the existing mature structure rather than isolated pruning.
+
+Combined with the earlier field evidence, the intervention can be observed through several physical changes:
+
+- mature and difficult-to-handle stems were removed,
+- thinner and younger productive stems were retained,
+- congestion within selected clusters was reduced,
+- more open space was created around developing Göğ Fındık clusters,
+- and the existing orchard remained productive during the transition.
+
+### Observation vs. Measurement
+
+The field photographs provide direct evidence of the orchard structure, branch interference, selective removal decisions, and the physical implementation of the transition.
+
+However, this case study deliberately distinguishes between **observed operational improvements** and **quantitatively measured performance improvements**.
+
+For example, reduced branch congestion and improved physical accessibility can be directly observed in the field.
+
+Metrics such as:
+
+- percentage reduction in harvesting time,
+- percentage increase in sunlight exposure,
+- labor-hours saved,
+- or yield differences
+
+were not formally measured during this stage of the project and are therefore not presented as quantified results.
+
+This distinction keeps the case study focused on documented process analysis rather than unsupported numerical claims.
+
