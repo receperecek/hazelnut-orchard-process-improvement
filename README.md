@@ -695,3 +695,17 @@ hazelnut-orchard-process-improvement/
     ├── 07-cluster-after-selective-thinning.jpg
     └── 08-removed-branches-after-thinning.jpg
 
+## Future Work
+
+This repository currently focuses on qualitative Business Analysis and Process Improvement.
+
+The case could later be extended with a quantitative field-analysis layer by collecting structured observations such as:
+
+harvesting time per cluster,
+branch-interference frequency,
+number of workers required for branch handling,
+labor-hours per harvested quantity,
+annual Göğ Fındık growth and maturity,
+and approximate canopy openness or sunlight exposure.
+
+If sufficient observations are collected over multiple seasons, the project could evolve into a longitudinal field analytics study while preserving the current Business Analysis foundation.
