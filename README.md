@@ -33,6 +33,10 @@ The analysis is based on:
 - direct participation in the harvesting process,
 - long-term family experience with the orchard,
 - field observations
+-  domain knowledge provided by the primary decision-maker,
+- and photographic evidence collected during the current transition process.
+
+No numerical performance improvements are claimed unless they were directly observed or measured.
   ---
 
 ## Background & Change Drivers
@@ -232,4 +236,86 @@ The final state is a fully transitioned Göğ Fındık orchard where:
 
 This is the core definition of **operational resilience** for the project.
 
-No numerical performance improvements are claimed unless they were directly observed or measured.
+---
+
+## Transition Strategy & Decision Criteria
+
+The orchard is not being converted through an immediate replacement.
+
+Instead, the transition follows a **phased and selective approach**.
+
+New Göğ Fındık clusters were planted in the open spaces between the existing Yağlı Palaz clusters. During the early years, only limited thinning was necessary because the new plants were still small.
+
+As the Göğ Fındık clusters entered a more important growth stage, their need for sunlight and physical space increased. This made selective removal of mature Yağlı Palaz stems progressively more important.
+
+### Why not remove all Yağlı Palaz at once?
+
+Removing the existing cultivar immediately would create unnecessary transition risk.
+
+The Göğ Fındık plants require several years to develop sufficient size and productivity. Eliminating the entire Yağlı Palaz structure before the new system is ready would reduce current production without providing an immediate operational replacement.
+
+The transition therefore balances two competing risks:
+
+**Removing too much too early**
+→ current productive capacity is lost before the new cultivar is ready.
+
+**Removing too little for too long**
+→ mature Yağlı Palaz stems continue to restrict sunlight, physical space, and harvesting accessibility.
+
+The strategy is to remain between these two extremes.
+
+> **Maintain enough of the existing system to support current production, while removing enough of it to allow the new system to develop successfully.**
+
+### Stem Removal Decision Criteria
+
+Stem removal is not random and is not based solely on age.
+
+The primary decision-maker evaluates mature Yağlı Palaz stems using the following priorities:
+
+| Priority | Decision Criterion | Effect on Removal Decision |
+|---|---|---|
+| **1** | Sunlight obstruction | Stems that significantly shade developing Göğ Fındık clusters receive the highest removal priority |
+| **2** | Thickness and bending difficulty | Thick mature stems that require high physical effort are more likely to be removed |
+| **3** | Branch interference | Stems that frequently collide or overlap with surrounding branches increase removal priority |
+| **4** | Age / lifecycle stage | Older stems are generally more suitable for removal as younger productive stems remain available |
+| **5** | Current hazelnut quantity | Not a primary decision factor |
+
+### Example — Mature Stem Selected for Removal
+
+![Mature stem selected for removal](images/05-mature-stem-selected-for-removal.jpg)
+
+*Example of a mature and thick Yağlı Palaz stem selected for removal during the current transition process.*
+
+Current production on a mature stem does not automatically justify keeping it.
+
+The harvested hazelnuts on removed stems can still be collected during the same season, while medium-aged stems continue to provide production during the remaining transition period.
+
+### Selective Thinning
+
+The objective is not to remove every existing stem.
+
+It is to remove the stems that create the greatest operational and developmental constraints while retaining younger and medium-aged productive stems.
+
+![Selective thinning](images/06-selective-thinning-cut-and-retained-stems.jpg)
+
+*Selective thinning in practice: mature stems have been removed while thinner and younger stems remain in place.*
+
+This allows the orchard to maintain a temporary production layer while gradually transferring space and operational importance to the new Göğ Fındık clusters.
+
+### Current Transition State
+
+![Cluster after selective thinning](images/07-cluster-after-selective-thinning.jpg)
+
+*Example of a Yağlı Palaz cluster after selective thinning. Several mature stems have been removed while productive younger stems remain.*
+
+The transition is expected to take approximately ten years in total, but the final replacement point is not determined by the calendar alone.
+
+The true completion trigger is:
+
+> **The Göğ Fındık clusters reaching sufficient maturity to take over the productive and operational role of the existing Yağlı Palaz orchard.**
+
+For this reason, the transition is best described as:
+
+**Time-informed, but maturity-driven.**
+
+
